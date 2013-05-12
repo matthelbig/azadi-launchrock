@@ -1,4 +1,4 @@
-azadi-launchrock
+Azadi Launchrock
 ================
 
-A super simple initial landing page for Azadi.
+A super simple initial Launchrock landing page for Azadi (every startup needs one).
